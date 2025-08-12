@@ -15,7 +15,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/DhruvChauhan28/gemini-code-converter.git
+git clone https://github.com/DhruvChauhan28/gemini-based-code-converter.git
 cd gemini-code-converter
 pip install -r requirements.txt
 
