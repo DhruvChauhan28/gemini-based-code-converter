@@ -10,6 +10,7 @@ A web-based tool powered by Google's Gemini 2.5 Pro API that converts source cod
 
 ## setup env file.
 Create a .env file in the project root:
+
 GOOGLE_API_KEY=your_google_api_key_here
 
 ## 📦 Installation
